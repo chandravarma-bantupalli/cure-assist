@@ -1,0 +1,13 @@
+{
+    "appointment-id": "",
+    "appointment-date": "",
+    "user-id": "", //patient-user-id
+    "patient-name": "",
+    "patient-phone": "",
+    "doctor-user-id": "", //doctor-user-id
+    "doctor-name": "",
+    "doctor-phone": "",
+    "d-c-id": "",//d-c-admin-user-id
+    "d-c-name": "",
+    "d-c-phone": "",
+}

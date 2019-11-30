@@ -1,0 +1,8 @@
+{
+    "user_id": "",
+    "user_name": "",
+    "email": "",
+    "password": "",
+    "phone_number": "",
+    "user_type": "patient || doctor || diagnosis-center-admin || pharmacy-admin"    
+}

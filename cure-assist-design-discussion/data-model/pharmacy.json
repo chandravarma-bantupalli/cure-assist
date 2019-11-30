@@ -1,0 +1,20 @@
+{
+    "user-type": "pharmacy-admin",
+    "user_id": "",
+    "email": "",
+    "pharmacy-name": "",
+    "pharmacy-phone": "",
+    "pharmacy-address": "",
+    "pharmacy-city": "",
+    "orders": [
+        {
+            "order-id": "",
+            "order-date": "",
+            "patient-name": "",
+            "patient-phone": "",
+            "medicines-ordered[]": "",
+            "price": "",
+            "payment-mode": "" 
+        }
+    ]
+}

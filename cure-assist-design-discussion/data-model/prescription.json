@@ -1,0 +1,11 @@
+{
+    "prescription-id": "",
+    "prescription-date": "",
+    "patient-name": "",
+    "patient-phone": "",
+    "doctor-name": "",
+    "doctor-phone": "",
+    "symptoms[]": "",
+    "remarks[]": "",
+    "medicines[]": ""
+}

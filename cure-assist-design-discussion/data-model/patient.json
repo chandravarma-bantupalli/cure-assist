@@ -1,0 +1,42 @@
+{
+    "user_type": "patient",
+    "user_id": "",
+    "email": "",
+    "firstName": "",
+    "lastName": "",
+    "phoneNumber": "",
+    "idCardNumber": "",
+    "city":"",
+    
+    "medicine-orders":[
+        {
+            "order_id": "",
+            "order-date": "",
+            "pharmacy-name": "",
+            "pharmacy-phone": "",
+            "medicines-bought[]": "",
+            "price": "",
+            "payment-mode": ""
+        }
+    ],
+    "prescriptions": [
+        {
+            "prescription-id": "",
+            "symptoms[]": "",
+            "remarks[]": "",
+            "medicines[]": "",
+            "doctor-name": "",
+            "doctor-phone": ""
+        }
+    ],
+    "test-reports": [
+        {
+            "report-id": "",
+            "test-name": "",
+            "test-date": "",
+            "test-result": "",
+            "d-c-name": "",
+            "d-c-phone": ""
+        }
+    ]
+}

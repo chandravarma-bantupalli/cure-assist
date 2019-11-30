@@ -1,0 +1,24 @@
+{
+    "user-type": "diagnosis-center-admin",
+    "user_id": "",
+    "email": "",
+    "d-c-name": "",
+    "d-c-address": "",
+    "d-c-city": "",
+    "test": [
+        {
+        "test-id": "",
+        "test-name": "",
+        "test-cost": "",
+        "test-slot-timing": ""
+        }
+    ],
+    "d-c's-slots": [
+        {
+            "test-conducted": "",
+            "slot-start-time": "",
+            "slot-end-time": "",
+            "slot-capacity": ""
+        }
+    ]
+}

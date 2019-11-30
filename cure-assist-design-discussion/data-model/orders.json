@@ -1,0 +1,15 @@
+{
+    "order-id": "",
+    "patient-name": "",
+    "patient-phone": "",
+    "pharmacy-name": "",
+    "pharmacy-phone": "",
+    "medicines-ordered[]": {
+        "medicine-name": "",
+        "medicine-qty": "",
+        "medicine-mfg-name": "",
+        "medicine-price": ""
+    },
+    "price": "",
+    "payment-mode": ""
+}

@@ -1,0 +1,21 @@
+{
+    "user-type": "doctor",
+    "user_id": "",
+    "email": "",
+    "firstName": "",
+    "lastName": "",
+    "phoneNumber": "",
+    "registration-number": "",
+    "specialization": "",
+    "idCardNumber": "",
+    "city":"",
+    "clinic-address || hospital-address": "",
+    
+    "doctor's-slots": [
+        {
+        "slot-start-time": "",
+        "slot-end-time": "",
+        "slot-capacity": ""
+        }
+    ]
+}
